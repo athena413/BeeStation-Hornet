@@ -49,9 +49,6 @@
 "az" = (
 /turf/closed/wall/mineral/titanium/nodiagonal,
 /area/shuttle/escape)
-"aB" = (
-/turf/closed/wall/mineral/titanium/interior,
-/area/shuttle/escape)
 "aE" = (
 /obj/structure/chair/comfy/shuttle{
 	dir = 4
@@ -624,7 +621,7 @@ aa
 (11,1,1) = {"
 VO
 VO
-aB
+az
 aJ
 at
 aZ
@@ -654,7 +651,7 @@ aa
 (13,1,1) = {"
 VO
 VO
-aB
+az
 bK
 at
 aZ
@@ -714,7 +711,7 @@ aa
 (17,1,1) = {"
 VO
 VO
-aB
+az
 bK
 at
 aZ
@@ -744,7 +741,7 @@ aa
 (19,1,1) = {"
 VO
 VO
-aB
+az
 aL
 at
 aZ
